@@ -1,0 +1,19 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-ftdi.cfg"
+  ],
+  "idf.portWin": "COM7",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "mqtt_client.h": "c",
+    "nvs_flash.h": "c",
+    "esp_efuse.h": "c",
+    "common.h": "c",
+    "senser.h": "c",
+    "esp_system.h": "c",
+    "esp_netif.h": "c",
+    "esp_event.h": "c"
+  }
+}
